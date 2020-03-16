@@ -1,0 +1,14 @@
+{
+    "name": "jsuarezik/mailerlite-api",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jesus Suarez",
+            "email": "jisaac07@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/http-foundation": "^5.0",
+        "wanfeiyy/dd": "^1.0"
+    }
+}
